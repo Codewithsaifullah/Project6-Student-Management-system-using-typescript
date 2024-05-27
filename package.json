@@ -1,0 +1,21 @@
+{
+  "name": "p06-student-management-system-by-saifullah123",
+  "version": "1.0.6",
+  "description": "Cli based Student Management System",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "p-7-student-management-system-by-saifullah123": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saifullahsafi454@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
